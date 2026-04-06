@@ -1,4 +1,4 @@
-# CS50-Projects
+# CS50-Projects in C
 Projects completed as part of Harvard CS50 course, focus on problem-solving, algorithms, and programming in C
 
 1. Mario (More & Less)
